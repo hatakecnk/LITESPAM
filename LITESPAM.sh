@@ -45,7 +45,7 @@ then
 clear
 echo "\033[31;1m"
 toilet "Tri"
-sh bom-tri.sh
+php spam-tri.php
 fi
 
 if [ $mrrm = 4 ] || [ $mrrm = 4 ]
