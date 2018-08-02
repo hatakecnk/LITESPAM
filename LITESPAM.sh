@@ -2,23 +2,24 @@
 clear
 toilet -f slant --gay "LiteSpam"
 sleep 1
-echo "\033[31;1m Macam-macam tool untuk spam"
+echo "\033[31;1m  Macam-macam tool untuk spam"
 sleep 1
-echo "\033[33;1m Author: xNot_Found"
+echo "\033[33;1m  Author: xNot_Found"
 sleep 1
-echo "\033[32;1m ★contack: +12674783379"
+echo "\033[32;1m  ★Contact: +12674783379"
 sleep 1
-echo "\033[34;1m ★Indonesia Security Lite"
+echo "\033[34;1m  ★Indonesia Security Lite"
 sleep 1
 echo "\033[36;1m Spam Yang Tersedia :"
 echo "1. Tokopedia"
-echo "2. Telkomsel"
-echo "3. Matahari Mall"
-echo "4. PHD"
-echo "5. Jd.Id"
-echo "6. Email Bomber"
+echo "2. Khusus-T-sel"
+echo "3. Khusus-Tri"
+echo "4. Matahari Mall"
+echo "5. PHD"
+echo "6. Jd.Id"
+echo "7. Email Bomber"
 echo "0. Keluar"
-echo "\033[30;1m81. Informasi Tool Ini"
+echo "\033[30;1m99. Informasi Tool Ini"
 echo "\033[33;1m Pilih Angka:"
 read mrrm
 if [ $mrrm = 1 ] || [ $mrrm = 1 ]
@@ -38,7 +39,16 @@ toilet "T-Sel"
 php 2.php
 fi
 
-if [ $mrrm = 3 ] || [ $mrrm = 3 ]
+if
+[ $mrrm = 3 ] || [ $mrrm = 3 ]
+then
+clear
+echo "\033[31;1m"
+toilet "Tri"
+sh bom-tri.sh
+fi
+
+if [ $mrrm = 4 ] || [ $mrrm = 4 ]
 then
 clear
 echo "\033[31;1m"
@@ -47,7 +57,7 @@ php 3.php
 fi
 
 
-if [ $mrrm = 4 ] || [ $mrrm = 4 ]
+if [ $mrrm = 5 ] || [ $mrrm = 5 ]
 then
 clear
 toilet -f mono12 -F gay "PHD"
@@ -56,7 +66,7 @@ php 4.php
 fi
 
 if
-[ $mrrm = 5 ] || [ $mrrm = 5 ]
+[ $mrrm = 6 ] || [ $mrrm = 6 ]
 then
 clear
 toilet -f mono12 -F gay "Jd.Id"
@@ -65,7 +75,7 @@ php 5.php
 fi
 
 if
-[ $mrrm = 6 ] || [ $mrrm = 6 ]
+[ $mrrm = 7 ] || [ $mrrm = 7 ]
 then
 clear
 toilet -f standard -F gay "Email Bomber"
@@ -74,13 +84,13 @@ python2 6.py
 fi
 
 if
-[ $mrrm = 81 ] || [ $mrrm = 81 ]
+[ $mrrm = 99 ] || [ $mrrm = 99 ]
 then
 clear
 toilet -f slant --gay "LiteSpam"
 echo "\033[31;1mNama tools: LiteSpam"
 sleep 1
-echo "\033[33;1mKarya: xNot_Found (V2 By Mr.IM81)"
+echo "\033[33;1mKarya: xNot_Found"
 sleep 1
 echo "\033[32;1mVersi: v2"
 sleep 1
@@ -88,12 +98,7 @@ echo "\033[36;1mTeam: ★Indonesia Security Lite★"
 sleep 1
 echo "\033[34;1mInformasi Lebih Lanjut Kunjungi: https://youtube.com/IndonesiaSecurityLite"
 echo "\033[31;1m Spesial Thanks To: "
-echo "\033[36;1m"
 echo "Febry Afriansyah"
-echo "まやちゃん"
-echo "Sniper Cyber Team"
-echo "SBG-Team"
-echo "Palembang Defacer Team"
 sleep 1
 echo "And All Member Indonesia Security Lite"
 echo "\033[30;1m tunggu 8 detik"
