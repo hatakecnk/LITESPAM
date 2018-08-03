@@ -2,6 +2,8 @@
 function banner(){
 system('cls') or system('clear');
 print "============================================\n";
+print " Author : xNot_Found   |   CP: +12674783379 \n";
+print "============================================\n";
 print " ____  __  ____      ____  ____   __   _  _ \n";
 print "/ ___)(  )/ ___) ___(_  _)(  __) / _\ ( \/ )\n";
 print "\___ \ )( \___ \(___) )(   ) _) /    \/ \/ \ \n";
@@ -12,9 +14,9 @@ print "============================================\n";
 }
 if (empty($argv[1]) or empty($argv[2])) {
 banner();
-echo "Usage : php ".$argv[0]." phone-number jumlah-request\n";
-echo "Example : ";
-echo "php ".$argv[0]." 0898xxxxxxxx 99999\n";
+echo "Cara Pakai : php ".$argv[0]." NomorHP jumlah\n";
+echo "Contoh : ";
+echo "php ".$argv[0]." 0895xxxxxxxx 99999\n";
 }
 else {
 banner();
@@ -38,10 +40,10 @@ $server_output = curl_exec ($ch);
 curl_close ($ch);
 $server_output = json_decode($server_output, TRUE);
 if ($server_output['status'] == "success") {
-echo "[".$x."/".$request."][".$argv[1]."] Success\n";
+echo "[".$x."/".$request."][".$argv[1]."] SUKSES\n";
 }
 else {
-echo "[".$x."/".$request."][".$argv[1]."] Failed!\n";
+echo "[".$x."/".$request."][".$argv[1]."] GAGAL!\n";
 }
 }
 }
