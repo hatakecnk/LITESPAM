@@ -44,7 +44,6 @@ if
 then
 clear
 echo "\033[31;1m"
-toilet "Tri"
 php spam-tri.php
 fi
 
@@ -96,7 +95,6 @@ echo "\033[32;1mVersi: v2"
 sleep 1
 echo "\033[36;1mTeam: ★Indonesia Security Lite★"
 sleep 1
-echo "\033[34;1mInformasi Lebih Lanjut Kunjungi: https://youtube.com/IndonesiaSecurityLite"
 echo "\033[31;1m Spesial Thanks To: "
 echo "Febry Afriansyah"
 sleep 1
