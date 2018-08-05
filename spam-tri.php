@@ -2,7 +2,7 @@
 function banner(){
 system('cls') or system('clear');
 print "============================================\n";
-print " Author : H4T4K3CNK   ||   CP: +12674783379 \n";
+print " Author : xNot_Found   |   CP: +12674783379 \n";
 print "============================================\n";
 print " ____  __  ____      ____  ____   __   _  _ \n";
 print "/ ___)(  )/ ___) ___(_  _)(  __) / _\ ( \/ )\n";
