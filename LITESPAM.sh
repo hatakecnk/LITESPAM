@@ -4,9 +4,9 @@ toilet -f slant --gay "LiteSpam"
 sleep 1
 echo "\033[31;1mMacam-macam tool untuk spam"
 sleep 1
-echo "\033[33;1mAuthor: xNot_Found"
+echo "\033[33;1mAuthor: H4T4K3CNK"
 sleep 1
-echo "\033[32;1m★Contact: +12674783379"
+echo "\033[32;1m★Contact: +1(267)478-3379"
 sleep 1
 echo "\033[34;1m★Indonesia Security Lite"
 sleep 1
@@ -89,7 +89,7 @@ clear
 toilet -f slant --gay "LiteSpam"
 echo "\033[31;1mNama tools: LiteSpam"
 sleep 1
-echo "\033[33;1mKarya: xNot_Found"
+echo "\033[33;1mKarya: H4T4K3CNK"
 sleep 1
 echo "\033[32;1mVersi: v2"
 sleep 1
