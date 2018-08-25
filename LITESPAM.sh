@@ -2,8 +2,6 @@
 clear
 toilet -f slant --gay "LiteSpam"
 sleep 1
-echo "\033[31;1mMacam-macam tool untuk spam"
-sleep 1
 echo "\033[33;1mAuthor: xNot_Found"
 sleep 1
 echo "\033[32;1m★Contact: +1(267)478-3379"
@@ -18,6 +16,7 @@ echo "4. Matahari Mall"
 echo "5. PHD"
 echo "6. Jd.Id"
 echo "7. Email Bomber"
+echo "8. Whatsapp"
 echo "0. Keluar"
 echo "\033[30;1m99. Informasi Tool Ini"
 echo "\033[33;1m Pilih Angka:"
@@ -43,7 +42,7 @@ if
 [ $mrrm = 3 ] || [ $mrrm = 3 ]
 then
 clear
-echo "\033[31;1m"
+echo "\033[34;1m"
 php spam-tri.php
 fi
 
@@ -80,6 +79,15 @@ clear
 toilet -f standard -F gay "Email Bomber"
 echo "\033[36;1m"
 python2 6.py
+fi
+
+if
+[ $mrrm = 8 ] || [ $mrrm = 8 ]
+then
+clear
+echo "\033[34;1m"
+figlet "Whatsapp"
+php wa.php
 fi
 
 if
